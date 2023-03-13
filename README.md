@@ -1,12 +1,5 @@
 # BOOKSHOP
 
-<p align="center">
-  <br>
-  <img src="./images/common/logo-sample.png">
-  <img src="./images/common/logo-sample.jpeg">
-  <br>
-</p>
-
 ## 프로젝트 소개
 
 <p align="center">
@@ -25,21 +18,17 @@ GIF Images
 
 ## 기술 스택
 
-|                 Javascript                  |                 React                  |                 Javascript                  |                 React                  |
-| :-----------------------------------------: | :------------------------------------: | :-----------------------------------------: | :------------------------------------: |
-| ![javascript](/images/stack/javascript.svg) | ![javascript](/images/stack/html5.svg) | ![javascript](/images/stack/javascript.svg) | ![javascript](/images/stack/html5.svg) |
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+ Javascript |   Java   |  Spring      
 
 <br>
 
 ## 구현 기능
 
-- 리스트 1
-- 리스트 2
-- 리스트 3
-- 리스트 4
+- 회원 정보
+- 주문 테이블
+- 상품 정보
+- 상품 이미지 정보
+- 장바구니
 ### 기능 1
 
 ### 기능 2
@@ -53,21 +42,14 @@ GIF Images
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
-이러이러한 것을 하면서, 어떤 것에 대해 배웠다.
+쇼핑몰을 직접 구현 하면서,CRUD 스프링에 대한 전체적인 흐름에 대해 배웠다.
 
-어떤 것은 제대로 되지 않아 아쉬웠다.
+DB 받아오는 것이 제대로 되지 않아 아쉬웠다.
 
 </p>
 
-@@ -49,6 +50,9 @@ GIF Image
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 <!-- Refernces -->
-<!-- Stack Icon Refernces -->
 
-[icons]: https://icons8.kr/icons/set/javascript
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
+
+
