@@ -3,15 +3,13 @@
 ## 프로젝트 소개
 
 <p align="center">
-개요에 대한 설명
 
-GIF Image
 <p align="justify">
 프로젝트 개요/동기
 </p>
 
 <p align="center">
-GIF Images
+
 </p>
 
 <br>
@@ -29,6 +27,7 @@ GIF Images
 - 상품 정보
 - 상품 이미지 정보
 - 장바구니
+
 ### 기능 1
 
 ### 기능 2
